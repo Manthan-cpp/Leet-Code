@@ -1,42 +1,42 @@
-#include <algorithm>
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        // int n = nums.size();
-        vector<int> a;
-        int i = 0,c=0;
-        
-        sort(nums.begin(), nums.end());
-        if(nums[nums.size()-1]<=0){
+        int n = nums.size();
+        bool contains1 = false;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == 1) {
+                contains1 = true;
+            }
+            if (nums[i] <= 0 || nums[i] > n) {
+                nums[i] = 1;
+            }
+        }
+
+        if (!contains1) {
             return 1;
         }
-        while (i < nums.size()) {
-            if (nums[i] <= 0) {
-                i++;
-                c++;
-            } else if (nums[i] > 0) {
-                a.push_back(nums[i]);
-                i++;
+
+        for (int i = 0; i < n; i++) {
+            int value = abs(nums[i]);
+            if (value == n) {
+                nums[0] = -abs(nums[0]);
+            }
+            else {
+                nums[value] = -abs(nums[value]);
             }
         }
-        if (a[0] != 1 ) {
-            return 1;
-        }
-        i = 0;
-        while (i < a.size()-1) {
-            if(a[i]==a[i+1]){
-                i++;
-            }
-            else{
-                if(a[i]+1!=a[i+1])
-                {
-                    break;
-                }
-                else{
-                    i++;
-                }
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > 0) {
+                return i;
             }
         }
-        return a[i]+1;
+
+        if (nums[0] > 0) {
+            return n;
+        }
+
+        return n + 1;
     }
-};  
+};
