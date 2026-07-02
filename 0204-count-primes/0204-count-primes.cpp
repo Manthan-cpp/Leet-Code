@@ -7,8 +7,8 @@ public:
         for(int i=2;i<n;i++){
             if(prime[i]){
                 c++;
-                for(j=2;j*i<n;j++){
-                    prime[j*i]=0;
+                for(j=2*i;j<n;j=j+i){
+                    prime[j]=0;
                 }
             }
         }
