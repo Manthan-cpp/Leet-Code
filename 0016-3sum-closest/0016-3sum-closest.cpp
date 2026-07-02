@@ -5,14 +5,16 @@ public:
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
         int n = nums.size();
-        vector<int> a;
-        int i, j, k, sum, diff , min=INT_MAX, index=0;
+        int i, j, k, sum;
+        int closest = nums[0]+nums[1]+nums[2];
         for (i = 0; i < n-2; i++) {
             j = i + 1;
             k = n - 1;
             while (j < k) {
                 sum = nums[i] + nums[j] + nums[k];
-                a.push_back(sum);
+                if(abs(target-sum)<abs(target-closest)){
+                    closest=sum;
+                }
                 if(sum<target){
                 j++;
                 }
@@ -25,13 +27,6 @@ public:
                 }
             }
         }
-        for(int i=0;i<a.size();i++){
-            diff=abs(target-a[i]);
-            if(diff<min){
-                min=diff;
-                index = i;
-            }
-        }
-        return a[index];
+        return closest;        
     }
 };
