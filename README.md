@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Manthan-cpp/Leet-Code/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
