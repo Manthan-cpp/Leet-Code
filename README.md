@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Manthan-cpp/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Manthan-cpp/Leet-Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Manthan-cpp/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
