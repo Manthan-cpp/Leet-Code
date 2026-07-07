@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Manthan-cpp/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Manthan-cpp/Leet-Code/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manthan-cpp/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
