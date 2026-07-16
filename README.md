@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manthan-cpp/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
+| [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
