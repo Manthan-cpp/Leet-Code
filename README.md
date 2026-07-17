@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Manthan-cpp/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Manthan-cpp/Leet-Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
@@ -143,10 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manthan-cpp/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Manthan-cpp/Leet-Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
