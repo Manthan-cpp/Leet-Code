@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manthan-cpp/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Manthan-cpp/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
+| [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Manthan-cpp/Leet-Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 ## Simulation
 |  |
