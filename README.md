@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Manthan-cpp/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Manthan-cpp/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Manthan-cpp/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manthan-cpp/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Manthan-cpp/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Manthan-cpp/Leet-Code/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Manthan-cpp/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
