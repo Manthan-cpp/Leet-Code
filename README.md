@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Manthan-cpp/Leet-Code/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Manthan-cpp/Leet-Code/tree/master/0223-rectangle-area) |
 ## Combinatorics
 |  |
 | ------- |
