@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Manthan-cpp/Leet-Code/tree/master/0223-rectangle-area) |
