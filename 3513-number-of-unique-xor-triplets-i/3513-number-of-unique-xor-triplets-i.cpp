@@ -10,6 +10,6 @@ public:
             else
                 break;
         }
-        return 1 << i;
+        return 1 <<i;
     }
 };
