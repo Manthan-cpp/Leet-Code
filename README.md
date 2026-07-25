@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/Manthan-cpp/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
+| [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Geometry
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Manthan-cpp/Leet-Code/tree/master/0319-bulb-switcher) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
