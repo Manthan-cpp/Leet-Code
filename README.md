@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Manthan-cpp/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/Manthan-cpp/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
