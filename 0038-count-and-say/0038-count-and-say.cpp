@@ -1,26 +1,20 @@
 class Solution {
 public:
-    string countNums(string s){
-        int c=1;
+    string countAndSay(int n) {
+        if(n==1){
+            return "1";
+        }
         string ans="";
-        for(int i=1;i<=s.length();i++){
-            if(i<s.length() && s[i]==s[i-1]){
+        string say=countAndSay(n-1);
+        for(int i=0;i<say.length();i++){
+            char ch=say[i];
+            int c=1;
+            while(i<say.length() && say[i]==say[i+1]){
                 c++;
+                i++;
             }
-            else{
-                ans+=to_string(c);
-                ans+=s[i-1];
-                c=1;
-            }
+            ans+=to_string(c)+string(1,ch);
         }
         return ans;
-    }
-    string countAndSay(int n) {
-        int i,j;
-        string s="1";
-        for(i=1;i<n;i++){
-            s=countNums(s);
-        }
-        return s;
     }
 };
