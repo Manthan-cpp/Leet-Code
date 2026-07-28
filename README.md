@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Manthan-cpp/Leet-Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Manthan-cpp/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
