@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
