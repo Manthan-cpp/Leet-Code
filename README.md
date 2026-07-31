@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Manthan-cpp/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
