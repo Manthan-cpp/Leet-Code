@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Manthan-cpp/Leet-Code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Manthan-cpp/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
