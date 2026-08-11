@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
