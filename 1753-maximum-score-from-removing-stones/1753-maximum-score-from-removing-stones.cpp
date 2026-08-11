@@ -1,19 +1,8 @@
 class Solution {
 public:
-    int maximumScore(int a,int b,int c){
-        priority_queue<int> q;
-        q.push(a);
-        q.push(b);
-        q.push(c);
-        int ans=0;
-        while(q.size()>=2){
-            int a=q.top(); q.pop();
-            int b=q.top(); q.pop();
-            ans++;
-            a--; b--;
-            if(a) q.push(a);
-            if(b) q.push(b);
-        }
-        return ans;
+    int maximumScore(int a, int b, int c) {
+        int m = max(max(a, b), c);
+        if (2*m > a+b+c) return a+b+c - m;
+        return (a+b+c)/2;
     }
 };
