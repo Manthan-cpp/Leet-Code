@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Manthan-cpp/Leet-Code/tree/master/1753-maximum-score-from-removing-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manthan-cpp/Leet-Code/tree/master/1510-stone-game-iv) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Manthan-cpp/Leet-Code/tree/master/1753-maximum-score-from-removing-stones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Manthan-cpp/Leet-Code/tree/master/1753-maximum-score-from-removing-stones) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
