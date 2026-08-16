@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool stoneGameIX(vector<int>& stones) {
+        int count[3] = {0};
+
+        for (int stone : stones) {
+            count[stone % 3]++;
+        }
+
+        // Even number of stones divisible by 3
+        if (count[0] % 2 == 0) {
+            return min(count[1], count[2]) > 0;
+        }
+
+        // Odd number of stones divisible by 3
+        return abs(count[1] - count[2]) > 2;
+    }
+};
