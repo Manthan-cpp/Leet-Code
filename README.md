@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manthan-cpp/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
+| [0344-reverse-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
