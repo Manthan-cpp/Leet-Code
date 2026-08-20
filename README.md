@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Manthan-cpp/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Manthan-cpp/Leet-Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Manthan-cpp/Leet-Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Manthan-cpp/Leet-Code/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
