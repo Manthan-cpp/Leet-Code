@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Manthan-cpp/Leet-Code/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
