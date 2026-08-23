@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manthan-cpp/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Manthan-cpp/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
