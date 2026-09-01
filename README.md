@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manthan-cpp/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Manthan-cpp/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manthan-cpp/Leet-Code/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Simulation
