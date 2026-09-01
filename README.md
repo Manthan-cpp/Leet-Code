@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Manthan-cpp/Leet-Code/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manthan-cpp/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manthan-cpp/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manthan-cpp/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manthan-cpp/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Manthan-cpp/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Math
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manthan-cpp/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
