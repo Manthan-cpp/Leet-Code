@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0136-single-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Manthan-cpp/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Manthan-cpp/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Manthan-cpp/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0171-excel-sheet-column-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Manthan-cpp/Leet-Code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
 ## Stack
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manthan-cpp/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 ## Breadth-First Search
 |  |
