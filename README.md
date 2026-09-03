@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Manthan-cpp/Leet-Code/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 ## Memoization
 |  |
 | ------- |
@@ -560,4 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Manthan-cpp/Leet-Code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
