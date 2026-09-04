@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Manthan-cpp/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Manthan-cpp/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manthan-cpp/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
