@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Manthan-cpp/Leet-Code/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Manthan-cpp/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manthan-cpp/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manthan-cpp/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1872-stone-game-viii) |
