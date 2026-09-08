@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Manthan-cpp/Leet-Code/tree/master/1768-merge-strings-alternately) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Manthan-cpp/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manthan-cpp/Leet-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Manthan-cpp/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Manthan-cpp/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Manthan-cpp/Leet-Code/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
