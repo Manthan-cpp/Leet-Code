@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Manthan-cpp/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Manthan-cpp/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Manthan-cpp/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manthan-cpp/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0055-jump-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Manthan-cpp/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Manthan-cpp/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manthan-cpp/Leet-Code/tree/master/0169-majority-element) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Manthan-cpp/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Manthan-cpp/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Manthan-cpp/Leet-Code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Manthan-cpp/Leet-Code/tree/master/0169-majority-element) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Manthan-cpp/Leet-Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Manthan-cpp/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manthan-cpp/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Manthan-cpp/Leet-Code/tree/master/0067-add-binary) |
