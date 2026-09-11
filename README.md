@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Manthan-cpp/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Manthan-cpp/Leet-Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Manthan-cpp/Leet-Code/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
@@ -612,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
