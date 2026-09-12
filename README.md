@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Manthan-cpp/Leet-Code/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Manthan-cpp/Leet-Code/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Manthan-cpp/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manthan-cpp/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
