@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manthan-cpp/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Manthan-cpp/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manthan-cpp/Leet-Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0206-reverse-linked-list) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Manthan-cpp/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
