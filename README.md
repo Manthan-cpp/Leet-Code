@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Manthan-cpp/Leet-Code/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Manthan-cpp/Leet-Code/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
