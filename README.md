@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
+| [0836-rectangle-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manthan-cpp/Leet-Code/tree/master/1510-stone-game-iv) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Manthan-cpp/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Manthan-cpp/Leet-Code/tree/master/0223-rectangle-area) |
+| [0836-rectangle-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
 |  |
 | ------- |
