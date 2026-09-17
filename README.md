@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Manthan-cpp/Leet-Code/tree/master/2029-stone-game-ix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manthan-cpp/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Manthan-cpp/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Manthan-cpp/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manthan-cpp/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Manthan-cpp/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Manthan-cpp/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1872-stone-game-viii) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manthan-cpp/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manthan-cpp/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
