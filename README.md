@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manthan-cpp/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Manthan-cpp/Leet-Code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Manthan-cpp/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manthan-cpp/Leet-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Manthan-cpp/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manthan-cpp/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manthan-cpp/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Manthan-cpp/Leet-Code/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manthan-cpp/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manthan-cpp/Leet-Code/tree/master/0389-find-the-difference) |
