@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
 | [0835-image-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manthan-cpp/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
