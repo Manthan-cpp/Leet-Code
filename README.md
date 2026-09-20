@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manthan-cpp/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manthan-cpp/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
