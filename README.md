@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Manthan-cpp/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Manthan-cpp/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
