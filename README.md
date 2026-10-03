@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Manthan-cpp/Leet-Code/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Manthan-cpp/Leet-Code/tree/master/0049-group-anagrams) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manthan-cpp/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Manthan-cpp/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manthan-cpp/Leet-Code/tree/master/0053-maximum-subarray) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Manthan-cpp/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
