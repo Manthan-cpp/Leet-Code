@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Manthan-cpp/Leet-Code/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Manthan-cpp/Leet-Code/tree/master/0383-ransom-note) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Manthan-cpp/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
 ## Stack
 |  |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Manthan-cpp/Leet-Code/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manthan-cpp/Leet-Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
