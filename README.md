@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manthan-cpp/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Manthan-cpp/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manthan-cpp/Leet-Code/tree/master/0136-single-number) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Manthan-cpp/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manthan-cpp/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Manthan-cpp/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/Manthan-cpp/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manthan-cpp/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manthan-cpp/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Manthan-cpp/Leet-Code/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
