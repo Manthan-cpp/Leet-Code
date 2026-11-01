@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manthan-cpp/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manthan-cpp/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manthan-cpp/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Manthan-cpp/Leet-Code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -864,4 +865,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan-cpp/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manthan-cpp/Leet-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
