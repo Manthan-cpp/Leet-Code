@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Manthan-cpp/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Manthan-cpp/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Manthan-cpp/Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Manthan-cpp/Leet-Code/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Manthan-cpp/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manthan-cpp/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Manthan-cpp/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manthan-cpp/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manthan-cpp/Leet-Code/tree/master/1021-remove-outermost-parentheses) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manthan-cpp/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Manthan-cpp/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/Manthan-cpp/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Manthan-cpp/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Manthan-cpp/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
