@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Manthan-cpp/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Manthan-cpp/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Manthan-cpp/Leet-Code/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/Manthan-cpp/Leet-Code/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0682-baseball-game) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manthan-cpp/Leet-Code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Manthan-cpp/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0500-keyboard-row](https://github.com/Manthan-cpp/Leet-Code/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Manthan-cpp/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Manthan-cpp/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Manthan-cpp/Leet-Code/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Manthan-cpp/Leet-Code/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0459-repeated-substring-pattern](https://github.com/Manthan-cpp/Leet-Code/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Manthan-cpp/Leet-Code/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Manthan-cpp/Leet-Code/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Manthan-cpp/Leet-Code/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0567-permutation-in-string) |
