@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Manthan-cpp/Leet-Code/tree/master/0500-keyboard-row) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manthan-cpp/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
 | [0679-24-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Manthan-cpp/Leet-Code/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Manthan-cpp/Leet-Code/tree/master/0835-image-overlap) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
 ## Union-Find
 |  |
 | ------- |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 ## Bracket Sequences
 |  |
@@ -894,4 +897,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Manthan-cpp/Leet-Code/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
