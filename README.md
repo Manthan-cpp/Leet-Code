@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Manthan-cpp/Leet-Code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Manthan-cpp/Leet-Code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Manthan-cpp/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Manthan-cpp/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manthan-cpp/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0678-valid-parenthesis-string) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Manthan-cpp/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan-cpp/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manthan-cpp/Leet-Code/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Manthan-cpp/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Manthan-cpp/Leet-Code/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manthan-cpp/Leet-Code/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
